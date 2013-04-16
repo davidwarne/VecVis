@@ -32,7 +32,7 @@ Joseph Young [1]
 The Latest Version
 ------------------
 The latest version of VecVis, including source code can 
-be found on GitHub at https://
+be found on GitHub at https://github.com/davidwarne/VecVis
 
 Documentation
 -------------
